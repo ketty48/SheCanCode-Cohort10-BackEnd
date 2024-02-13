@@ -1,0 +1,1 @@
+this project contains how to use arrays, objects, and functions in javascript.
