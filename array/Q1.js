@@ -12,5 +12,5 @@ for (let i = 0; i < colors.length; i++) {//to print using for
 let indexOfGreen=colors.indexOf("green");//finding the index of the element
 let reversedColors=colors.reverse();//reverse the order of the element
 console.log(reversedColors);
-let firstThreeColors=colors.slice(0,3);//return the first three element using slice() methid
+let firstThreeColors=colors.slice(0,3);//return the first three element using slice() method
 console.log(firstThreeColors);
