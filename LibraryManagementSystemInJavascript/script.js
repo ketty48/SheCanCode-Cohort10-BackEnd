@@ -25,3 +25,8 @@ var library=[
 
 }
 ];
+const addBooks=(book)=>{
+    console.log(library.length);
+    library.push(book);
+    console.log(liblary.length);
+}
